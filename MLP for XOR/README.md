@@ -20,10 +20,9 @@ What followed was a long debugging journey that taught me more than any high-lev
 
 ### 🔗 Code & Notebook
 
-* [📁 **GitHub Repository:**](https://colab.research.google.com/drive/1EIfvx7A_cDfOL1rMjDiAhRYRG2NlTMp_?usp=sharing)
+* [📁 **GitHub Repository**](https://colab.research.google.com/drive/1EIfvx7A_cDfOL1rMjDiAhRYRG2NlTMp_?usp=sharing)
 
-* ▶️ **Google Colab Notebook (Run Instantly):**
-  *(paste your Colab link here)*
+* [▶️ **Google Colab Notebook (Run Instantly)**](https://github.com/abhijitpadhi1/DL-from-scratch/blob/main/MLP%20for%20XOR/Back_propagation_from_scratch.ipynb)
 
 ---
 
@@ -270,6 +269,6 @@ You’ll never look at `.fit()` the same way again.
 ### 🔗 Explore the Code
 
 * [📁 **GitHub Repository:**](https://colab.research.google.com/drive/1EIfvx7A_cDfOL1rMjDiAhRYRG2NlTMp_?usp=sharing)
-* ▶️ **Google Colab Notebook:** *(paste link)*
+* [▶️ **Google Colab Notebook:**](https://github.com/abhijitpadhi1/DL-from-scratch/blob/main/MLP%20for%20XOR/Back_propagation_from_scratch.ipynb)
 
 ---
