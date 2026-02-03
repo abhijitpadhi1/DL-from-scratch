@@ -12,4 +12,5 @@ dependencies = [
     "pyfiglet>=1.0.4",
     "python-dotenv>=1.2.1",
     "tqdm>=4.67.2",
+    "nnfs>=0.5.1",
 ]
